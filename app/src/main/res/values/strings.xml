@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MenuExample</string>
+    <string name="hello_world">Press Me Long !</string>
+    <string name="enter_message">Long Press !</string>
+    <string name="sample_context_menu_example">Sample Context Menu Example</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+
+    <item
+        android:id="@+id/long1"
+        android:icon="@drawable/ic_delete"
+        android:title="Cut"/>
+    <item
+        android:id="@+id/long12"
+        android:icon="@drawable/ic_share_black_24dp"
+        android:title="Paste" />
+
+</menu>
